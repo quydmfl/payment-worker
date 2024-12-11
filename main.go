@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ankorstore/yokai-worker-template/cmd"
+	"github.com/quydmfl/payment-worker/cmd"
 )
 
 func main() {

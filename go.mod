@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-worker-template
+module github.com/quydmfl/payment-worker
 
 go 1.23
 

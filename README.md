@@ -76,7 +76,7 @@ make fresh
 You can install [gonew](https://go.dev/blog/gonew), and simply run:
 
 ```shell
-gonew github.com/ankorstore/yokai-worker-template github.com/foo/bar
+gonew github.com/quydmfl/payment-worker github.com/foo/bar
 cd bar
 make fresh
 ```

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ankorstore/yokai-worker-template/internal"
+	"github.com/quydmfl/payment-worker/internal"
 	"github.com/ankorstore/yokai/fxconfig"
 	"github.com/ankorstore/yokai/log/logtest"
 	"github.com/prometheus/client_golang/prometheus"
